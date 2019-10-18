@@ -1,0 +1,4 @@
+[submodule "redux-app"]
+	path = redux-app
+	url = https://github.com/ernestoacosta75/redux-app.git
+	branch = master
