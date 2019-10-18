@@ -1,4 +1,10 @@
-[submodule "redux-app"]
-	path = redux-app
+[submodule "02-redux-app"]
+	path = 02-redux-app
 	url = https://github.com/ernestoacosta75/redux-app.git
 	branch = master
+
+[submodule "redux-angular"]
+	path = redux-angular
+	url = https://github.com/ernestoacosta75/redux-angular.git
+	branch = master
+
